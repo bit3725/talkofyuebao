@@ -1,0 +1,15 @@
+.col2 {
+  -webkit-column-count: 2;
+  column-count: 2;
+}
+del {
+  color: #666;
+}
+
+.dead-store {
+  opacity: 0.3;
+}
+
+.slides .notes{
+    display:none;
+}
